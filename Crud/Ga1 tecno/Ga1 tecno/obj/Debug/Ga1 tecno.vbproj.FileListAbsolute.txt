@@ -1,0 +1,24 @@
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\bin\Debug\Ga1 tecno.exe.config
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\bin\Debug\Ga1 tecno.exe
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\bin\Debug\Ga1 tecno.pdb
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\bin\Debug\Ga1 tecno.xml
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1 tecno.vbprojResolveAssemblyReference.cache
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1_tecno.Form1.resources
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1_tecno.Resources.resources
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1 tecno.vbproj.GenerateResource.Cache
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1 tecno.exe
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1 tecno.xml
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1 tecno.pdb
+c:\users\pc13lab4\documents\visual studio 2015\Projects\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1_tecno.Crud.resources
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\bin\Debug\Ga1 tecno.exe.config
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1 tecno.exe
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1 tecno.xml
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1 tecno.pdb
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\bin\Debug\Ga1 tecno.exe
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\bin\Debug\Ga1 tecno.pdb
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\bin\Debug\Ga1 tecno.xml
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1 tecno.vbprojResolveAssemblyReference.cache
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1_tecno.Crud.resources
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1_tecno.Form1.resources
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1_tecno.Resources.resources
+E:\Alejandro Monòn 5to.B\Ga1 tecno\Ga1 tecno\obj\Debug\Ga1 tecno.vbproj.GenerateResource.Cache
